@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Senior Frontend Developer",
+        "location": "Türkiye",
+        "category": "Tasarım",
+        "workType": "Uzaktan",
+        "company": "EXECUTAS - HR and Business Solutions",
+        "description": "<p>At Executas, we are partnering with an AI-driven technology company that is redefining the future of tech education. With a strong focus on innovation, they are developing cutting-edge AI-based learning solutions and preparing for their global launch.</p> <p>We are looking for a Senior Frontend Developer to join their team and contribute to the development of high-quality software while also sharing their expertise through online teaching. This is a unique opportunity to be part of a fast-growing SaaS company at the intersection of AI and education.</p> <p> <b>Your Role:</b> <br> As a Senior Frontend Developer, you will play a critical role in building and refining AI-powered learning solutions. Your responsibilities will include:</p> <ul><li> Developing, testing, and deploying high-quality frontend applications that align with business objectives. </li> <li>Participating in technical discussions and contributing to key software development decisions.</li> <li>Collaborating with product managers, designers, and engineers to create seamless user experiences. </li> <li>Identifying and resolving technical challenges while continuously improving development processes.</li> <li>Teaching online web development classes (live remote sessions) as part of the company’s learning initiatives (approximately 25% of your time).</li> <li>Ensuring that the curriculum reflects modern web development practices.</li> <li> Monitoring student engagement and performance while working closely with the Instruction team.</li></ul> <p><b>What You Need to Succeed:</b></p> <ul> <li>7+ years of experience in web development.</li> <li>Expertise in React, JavaScript, TypeScript, HTML, and CSS.</li> <li>Experience in teaching, mentoring, training, or coaching, with the ability to explain complex technical concepts clearly.</li> <li>Passion for web development, AI, and emerging technologies, with a drive to stay up-to-date with industry trends.</li> <li>A start-up mindset—proactive, resourceful, adaptable, and motivated to solve challenges.</li> <li>Strong communication and collaboration skills, with empathy for learners.</li> </ul> <p><b>Why Join? </b><br> This is more than just a development role—it’s an opportunity to shape the future of AI-powered learning technology. If you're a self-driven professional eager to work in an innovative and fast-paced environment, we’d love to hear from you! Apply now and become part of a game-changing AI-powered tech company! </p>"
+    },
+    {
+        "id": 2,
+        "title": "Kıdemli Yazılım Uzmanı (Node,JS)",
+        "location": "İstanbul",
+        "category": "Geliştirme",
+        "workType": "Hybrid",
+        "company": "Colin's",
+        "description": "<p>COLIN’S'te Biz, 'Sadece hazır giyim işinde değil; ürün ve hizmetlerimizle insanları daha iyi hissettirme işindeyiz.' </p> <p>Birlikte ilerleyip birlikte gelişmek için, bu misyonu paylaşan tutkulu ekibimize katılmak ve keyifli yolculuğumuzda yer almak ister misin?</p> <p><b>Öyleyse…</b></p> <ul><li>24 Ülke ve 600'den fazla mağazamız ile Colin's takımımızın değerli bir üyesi olma fırsatı,</li> <li>Uzaktan çalışma imkanı,</li> <li>İstediğin zaman ofiste yerin hazır! İleri teknoloji ile donatılmış, ilham veren muhteşem bir ofiste çalışma imkanı,</li> <li>Sana özel oluşturulan kariyer haritan ve gelişim planını destekleyecek sınırsız eğitim ve gelişim fırsatları,</li></ul>    <p><b>GENEL NİTELİKLER</b></p> <ul><li>Üniversite eğitimini bilgisayar, yazılım, mühendislik vb. bölümlerinden biri üzerine tamamlamış,</li> <li>En az 7 yıldır yazılım geliştirme yapan,</li> <li>Mikroservis ve REST API tecrübesi olan,</li> <li>Javascript(node.js) ile proje geliştirmiş,</li> <li>SQL Server/PostgreSQL vb. RDBMS deneyimine sahip olup; T-SQL ile stored procedure, function, trigger yazabilen,</li> <li>MongoDB vb. non-relational veritabanlarına aşina,</li> <li>Kafka, RabbitMQ gibi kuyruk teknolojilerine aşina olan,</li> <li>Git, Jenkins vb. kod geliştirme araçları hakkında bilgi sahibi olan,</li> <li>Docker, Kubernetes gibi konteynır teknolojilerine hakim olan,</li> <li>Analitik düşünebilen, çözüm odaklı ve ekip çalışmasına yatkın,</li></ul> <p><b>DİĞER NİTELİKLER</b></p> <ul><li>Açık kaynak kod proje tecrübesi olan,</li> <li>Test süreçleriyle ilgili bilgi sahibi olan,</li> <li>CI/CD süreçleri hakkında bilgi sahibi olan,</li> <li>Azure DevOps, Jira gibi proje yönetim ve takip uygulamaları ile proje geliştirmiş,</li> <li>Cloud native geliştirme alışkanlığı olan(tercihen Microsoft Azure servisleri kullanmış)</li></ul>"
+    },
+    {
+        "id": 3,
+        "title": "Front-end Developer",
+        "location": "İzmir",
+        "category": "Tasarım",
+        "workType": "İş Yerinde",
+        "company": "Virtara Group Bilişim Teknolojileri",
+        "description": "<p>Virtara Group Bilişim Teknolojileri olarak, işletmelere üst düzey, ölçeklenebilir ve güvenli yeni nesil akıllı bulut çözümleri sunuyoruz.</p> <p>Virtara, alanında deneyimli, işine tutkuyla bağlı ve yenilikçi profesyonellerden oluşan bir ekibe sahiptir. Her bir ekip üyemiz, müşterilerimize kaliteli hizmet ve etkili çözümler sunmaya her zaman hazırdır.</p> <p><b>İş Tanımı </b><br>Yeni nesil teknolojileri kullandığımız projelerimizde yer almak üzere, Bolu ofisimizde veya uzaktan çalışabilecek, tam zamanlı ve en az orta seviye Front-End Geliştirici arıyoruz.</p> <p><b>Aranan Nitelikler</b></p> <ul> <li>Güncel teknolojileri takip eden ve kendini sürekli geliştirmeye tutkulu,</li>  <li>Planlı, disiplinli ve sorumluluk alabilen,</li>  <li>UI, UX ve Back-End geliştiricileriyle etkin iş birliği yapabilecek,</li>  <li>İletişim becerileri güçlü ve ekip çalışmasına yatkın,</li> </ul>  <p><b>Teknik Gereksinimler</b></p> <ul> <li>HTML5, CSS3, JavaScript, Vue.js, Vuex, Nuxt konularında deneyimli,</li>  <li>Broadcasting & Event Bus konularında deneyimli,</li>  <li>Web API ve RESTful mimarisi ile geliştirme tecrübesine sahip,</li>  <li>Cross-Browser uyumluluğu ve Responsive tasarım konularında deneyimli,</li>  <li>Object-Oriented Programming ve Software Design Patterns hakkında bilgi sahibi,</li>  <li>Katmanlı mimari ile uygulama geliştirme deneyimi olan,</li> <li>Versiyon kontrol sistemlerini kullanabilen,</li> </ul> <p><b>Önemli:</b> Başvurularda belirtilen gerekliliklerden herhangi biri eksik olması durumunda başvuru dikkate alınmayacaktır.</p>"
+    },
+    {
+        "id": 4,
+        "title": "Frontend Developer",
+        "location": "İstanbul",
+        "category": "Tasarım",
+        "workType": "Hybrid",
+        "company": "Rentificial",
+        "description": "<p>The ideal candidate will be responsible for designing, developing, testing, and debugging responsive web for the company. Using JavaScript, HTML, and CSS, this candidate will be able to translate user and business needs into functional frontend design. </p> <p><b>Responsibilities</b><br></p> <ul> <li>Designing, developing, and testing UI for web applications</li> <li>Build reusable code and libraries for future use</li> <li>Accurately translate user and business needs into functional frontend code</li> </ul>  <p><b>Qualifications</b> <br></p> <ul> <li>Bachelor's degree or equivalent in Computer Science</li> <li>2+ years' experience in frontend development</li> <li>Familiarity using Scrum/Agile development methodologies</li> <li>Experience building object oriented web applications in JavaScript, HTML5, and CSS3</li> <li>Experience with Web Services, integrating with RESTful API</li> <li>React,Angular and VueJS is a plus.</li></ul>"
+    },
+    {
+        "id": 5,
+        "title": "Full Stack Engineer",
+        "location": "Amasya",
+        "category": "Yazılım",
+        "workType": "Hybrid",
+        "company": "TechCorp",
+        "description": "<p><b>Company Description</b> <br> At AOGEN, we specialize in delivering cutting-edge technology solutions tailored to your business needs. Our team is committed to driving innovation through web and mobile app development, as well as AI-powered solutions. We serve a range of industries and focus on providing personalized, high-quality services that help businesses grow and thrive in the digital age. AOGEN is dedicated to creating impactful and scalable results to empower businesses.</p> <p><b>Role Description</b> <br> We’re building an exciting early-stage startup project and are looking for motivated, hands-on engineers who are eager to be part of something from the ground up. This is a great opportunity to contribute to a product in its formative stages, help shape technical decisions, and work in a lean, collaborative environment. We're looking for someone who’s not only technically strong but also enthusiastic about solving real problems and growing with the project.</p> <p>Our core team is based in Sydney (CBD), but this role is fully open to remote candidates residing in Turkey who can work effectively with our timezone and communication flow. Strong English proficiency (especially reading and writing) is essential to collaborate smoothly across the team.</p> <p>We’re starting with an initial 6-month contract, with the potential to extend or transition into a full-time roledepending on performance and project milestones.</p> <p><b>Location & Work Arrangement</b><br></p> <ul><li>Preferred: On-site at our Sydney CBD office</li> <li>Optional: Remote work is available for the right candidate.</li> <li>Work rights flexibility: Whether your visa allows full-time or part-time work, that’s not a problem — we’re open to various legal work arrangements.</li> <li>Turkish language skills are a plus, but not required.</li></ul>   <p><b>Responsibilities </b></p>  <ul><li>Design and develop REST APIs using .NET Core (C#)</li> <li>Build user-friendly dashboards and wizard flows using Next.js (React + TypeScript)</li> <li>Set up and manage dev/stg/prod environments on Linux servers with Docker Compose or plain Docker</li> <li>Design performant data models and optimize queries using PostgreSQL and Redis</li> <li>Implement CI/CD pipelines using GitHub Actions (Docker image build → registry → SSH deploy)</li> <li>Actively participate in sprint planning, code reviews, and writing automated tests Required Qualifications</li> <li>4+ years of experience with .NET Core and React/Next.js</li> <li>Strong Linux and Docker (at least Docker Compose) experience in production environments</li> <li>Proven experience with PostgreSQL and Redis in real-world projects</li> <li>CI/CD experience using GitHub Actions or similar tools.</li> <li>Proficiency in reading and writing English</li> </ul>"
+    },
+    {
+        "id": 6,
+        "title": "Backend Developer",
+        "location": "Amasya",
+        "category": "Yazılım",
+        "workType": "Hybrid",
+        "company": "TechCorp",
+        "description": "Node.js bilgisi gerekli."
+    },
+    {
+        "id": 7,
+        "title": "Backend Developer",
+        "location": "Adana",
+        "category": "Yazılım",
+        "workType": "Hybrid",
+        "company": "TechCorp",
+        "description": "Node.js bilgisi gerekli."
+    },
+    {
+        "id": 8,
+        "title": "Backend Developer",
+        "location": "İstanbul",
+        "category": "Yazılım",
+        "workType": "Hybrid",
+        "company": "TechCorp",
+        "description": "Node.js bilgisi gerekli."
+    }
+]
